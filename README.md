@@ -80,7 +80,7 @@ NEXT_PUBLIC_API_BASE_URL=http://your-backend-api:12481
 NEXT_PUBLIC_USE_API_PROXY=1
 
 # Docker 部署时：容器内网地址（前端 SSR 直连后端）
-BACKEND_INTERNAL_BASE_URL=http://backend:12481
+BACKEND_INTERNAL_BASE_URL=http://backend:port
 ```
 
 ### API 代理说明
